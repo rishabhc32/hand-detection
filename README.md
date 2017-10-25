@@ -6,7 +6,9 @@ The project is divided into
 ## Software
 We are using opencv to detect human hand and find the distance between palm center and finger tips. Popular method of convex hull and convexity defect is used to detect the movement of hand. 
 
-Convex Hull and Convexity defects :![alt Convex Hull and Convexity defects](https://i.stack.imgur.com/EBlnT.png "Convex Hull and Convexity defects")
+Convex Hull and Convexity defects|
+---|
+![alt Convex Hull and Convexity defects](https://i.stack.imgur.com/EBlnT.png "Convex Hull and Convexity defects")|
 
 
 ![alt Human hand tracking](https://image.ibb.co/cOCEvm/screenshot.png "")
